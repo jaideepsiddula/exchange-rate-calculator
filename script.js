@@ -1,4 +1,5 @@
 //firt get all the dom elements
+//to be saved
 const currencyEl_one = document.getElementById("currency-one");
 const currencyEl_two = document.getElementById("currency-two");
 const rateEl = document.getElementById("rate");
