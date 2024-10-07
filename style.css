@@ -35,8 +35,9 @@ p{
     border-color: #191a19a8;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 12px;
-    padding: 5px 12px;
+    font-size: 14px;
+    height: 36px;
+    padding: 5px 16px;
     background-color: var(--primary-color);
 }
 
